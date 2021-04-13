@@ -1,1 +1,1 @@
-https://github.com/psadeghian/InstaPy/archive/pman.tar.gz
+https://github.com/psadeghian/InstaPy/archive/pman-old.tar.gz
